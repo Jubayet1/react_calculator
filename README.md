@@ -1,2 +1,2 @@
-# - React Calculator
-# - Light and Dark mode
+- React Calculator
+- Light and Dark mode
